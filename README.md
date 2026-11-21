@@ -1,16 +1,30 @@
-## Hi there 👋
+# Hi, I'm Ali Hussnain 👋
 
-<!--
-**ali-hussnain-dev01/ali-hussnain-dev01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### BSCS Student | Aspiring Software Developer
 
-Here are some ideas to get you started:
+I'm a Computer Science student passionate about learning programming and building useful software.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 Currently learning Python and C++
+- 💻 Interested in Software Development
+- 🚀 Working on **PLAN B – Smart Study Recovery System**
+- 🎯 My goal is to become a skilled Software Engineer
+
+### 🛠️ Technologies I'm Learning
+- Python
+- C++
+- Tkinter
+- SQLite
+- Git & GitHub
+
+### 📌 Featured Project
+
+**PLAN B – Smart Study Recovery System**
+
+A Python desktop application designed to help students manage missed study time, plan recovery sessions, and track study progress.
+
+### 📫 Connect With Me
+- GitHub: [@ali-hussnain-dev01](https://github.com/ali-hussnain-dev01)
+
+---
+
+*Code • Learn • Build • Grow*
